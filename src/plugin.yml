@@ -1,0 +1,5 @@
+name: Particles
+main: nl.marido.particles.Particles
+version: 1.0
+author: Marido
+description: Particles is a useful library to easily create particle positions.
